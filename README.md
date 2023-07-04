@@ -20,5 +20,5 @@ Tengo conocimientos basicos en:
 - LinkedIn: [polgonzalezmiranda](https://www.linkedin.com/in/pol-gonzalez-miranda-176221205/)
 - Correo electrónico: [pgmxx04@gmail.com](mailto:pgmxx04@gmail.com)
 
-¡Gracias por visitar mi página de presentación en GitHub! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
+¡Gracias por visitar mi perfil en GitHub! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
 
