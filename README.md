@@ -1,6 +1,6 @@
 # Bienvenido/a a mi página de presentación
 
-¡Hola! Soy Pol, y esta es mi página de presentación en GitHub. Aquí encontrarás información sobre mí y los proyectos en los que he trabajado. Permíteme contarte un poco sobre mí:
+¡Hola! Soy Pol, y esta es mi página de presentación en GitHub. Aquí encontrarás información sobre mí. Permíteme contarte un poco sobre mí:
 
 ## Sobre mí
 
