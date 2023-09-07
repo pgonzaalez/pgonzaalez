@@ -18,7 +18,7 @@ I would love to connect with you! You can find me on the following platforms:
 
 - GitHub: [pgonzaalez](https://github.com/pgonzaalez)
 - LinkedIn: [polgonzalezmiranda](https://www.linkedin.com/in/pol-gonzalez-miranda-176221205/)
-- Correo electrónico: [pgmxx04@gmail.com](mailto:pgmxx04@gmail.com)
+- Email: [pgmxx04@gmail.com](mailto:pgmxx04@gmail.com)
 - Discord: iamnoddy
 
 Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate on a project, please don't hesitate to contact me.
