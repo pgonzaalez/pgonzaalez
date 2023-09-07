@@ -1,24 +1,24 @@
-# Bienvenido/a a mi perfil
+# Welcome to my profile
 
-¡Hola! Soy Pol, y esta es mi página de presentación en GitHub. Aquí encontrarás información sobre mí. Permíteme contarte un poco sobre mí:
+Hello! I'm Pol, and this is my GitHub presentation page. Here, you will find information about me. Allow me to tell you a bit about myself:
 
-## Sobre mí
+## About Me
 
-Soy un apasionado/a de la programación y la tecnología. Me encanta aprender sobre nuevos lenguajes de programación y explorar diferentes áreas del desarrollo de software. 
+I am passionate about programming and technology. I love learning about new programming languages and exploring different areas of software development.
 
-## Habilidades técnicas
+Technical Skills
 
-Tengo conocimientos basicos en: 
-- Lenguajes de programación: Java, Python, JavaScript, HTML, CSS.
-- Bases de datos: MySQL, MongoDB.
+I have basic knowledge in:
+- Programming languages: Java, Python, JavaScript, HTML, CSS.
+- Databases: MySQL, MongoDB.
 
-## Contacto
+## Contact
 
-¡Me encantaría conectar contigo! Puedes encontrarme en las siguientes plataformas:
+I would love to connect with you! You can find me on the following platforms:
 
 - GitHub: [pgonzaalez](https://github.com/pgonzaalez)
 - LinkedIn: [polgonzalezmiranda](https://www.linkedin.com/in/pol-gonzalez-miranda-176221205/)
 - Correo electrónico: [pgmxx04@gmail.com](mailto:pgmxx04@gmail.com)
+- Discord: iamnoddy
 
-¡Gracias por visitar mi perfil en GitHub! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
-
+Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate on a project, please don't hesitate to contact me.
