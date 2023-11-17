@@ -17,7 +17,7 @@ I have basic knowledge in:
 I would love to connect with you! You can find me on the following platforms:
 
 - GitHub: [pgonzaalez](https://github.com/pgonzaalez)
-- LinkedIn: [polgonzalezmiranda](https://www.linkedin.com/in/pol-gonzalez-miranda-176221205/)
+- LinkedIn: [polgonzalezmiranda](www.linkedin.com/in/iamnoddy)
 - Email: [contact@cachau.es](mailto:contact@cachau.es)
 - Discord: iamnoddy
 
