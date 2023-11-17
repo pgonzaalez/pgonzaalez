@@ -4,13 +4,11 @@ Hello! I'm Pol, and this is my GitHub presentation page. Here, you will find inf
 
 ## About Me
 
-I am passionate about programming and technology. I love learning about new programming languages and exploring different areas of software development.
+A student of the Development of Multiplatform Applications (DAM), Focused on refining my skills in Java, MySQL, MongoDB, HTML, CSS and PHP, my educational journey in the DAM program serves as a continuous catalyst for deepening my understanding and proficiency in these pivotal programming languages and technologies.
 
-Technical Skills
+I offer a diverse set of services. From Java development to adept database management with MySQL and MongoDB, crafting engaging web interfaces with HTML and CSS, to implementing sophisticated business logic through PHP.
 
-I have basic knowledge in:
-- Programming languages: Java, Python, JavaScript, HTML, CSS.
-- Databases: MySQL, MongoDB.
+With each project, my goal is not only to apply but also to expand my skill set, delivering services that reflect both my evolving expertise and unwavering dedication to excellence in the dynamic realm of computer science.
 
 ## Contact
 
