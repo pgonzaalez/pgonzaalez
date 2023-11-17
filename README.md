@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-Hello! I'm Pol, and this is my GitHub presentation page. Here, you will find information about me. Allow me to tell you a bit about myself:
+Hello! I'm Pol, and this is my GitHub presentation page. Here, you will find information about me. Allow me to tell you a bit about myself
 
 ## About Me
 
