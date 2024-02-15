@@ -16,7 +16,7 @@ I would love to connect with you! You can find me on the following platforms:
 
 - GitHub: [pgonzaalez](https://github.com/pgonzaalez)
 - LinkedIn: [polgonzalezmiranda](www.linkedin.com/in/iamnoddy)
-- Email: [contact@cachau.es](mailto:contact@cachau.es)
+- Email: [pgmxx04@gmail.com](mailto:pgmxx04@gmail.com)
 - Discord: iamnoddy
 
 Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate on a project, please don't hesitate to contact me.
